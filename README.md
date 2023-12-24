@@ -2,6 +2,9 @@
 
 ## Introduction
 This project demonstrates a unique approach to creating and managing a 3D scene across multiple browser windows using Three.js and localStorage. It's designed for developers interested in advanced web graphics and window management techniques.
+---
+
+<img width="976" alt="multipleWindow3dScene" src="https://github.com/ChammounC/multipleWindow3dScene/assets/43007452/3417625f-bde8-407a-8c88-75f8a3b2b5d6">
 
 ## Features
 - 3D scene creation and rendering with Three.js.
