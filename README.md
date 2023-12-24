@@ -2,7 +2,7 @@
 
 ## Introduction
 This project demonstrates a unique approach to creating and managing a 3D scene across multiple browser windows using Three.js and localStorage. It's designed for developers interested in advanced web graphics and window management techniques.
----
+
 
 <img width="976" alt="multipleWindow3dScene" src="https://github.com/ChammounC/multipleWindow3dScene/assets/43007452/3417625f-bde8-407a-8c88-75f8a3b2b5d6">
 
@@ -35,10 +35,3 @@ Contributions to enhance or expand the project are welcome. Feel free to fork th
 
 ## License
 This project is open-sourced under the MIT License.
-
-## Acknowledgments
-- The Three.js team for their comprehensive 3D library.
-- x.com/didntdrinkwater for this readme.
-
-## Contact
-For more information and updates, follow [@_nonfigurativ_](https://twitter.com/_nonfigurativ_) on Twitter.
